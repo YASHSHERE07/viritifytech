@@ -1,0 +1,13 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg {
+  color: black;
+}
+
+.scale-hover:hover .scale-text {
+  transform: scale(1.1); /* Adjust the scale value as desired */
+  transition: transform 0.3s ease-in-out;
+}

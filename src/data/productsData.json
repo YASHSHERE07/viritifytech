@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "id": "tech001",
+      "title": "Reiki by Web3Go",
+      "summary": "An innovative platform for creating and monetizing AI agents, integrating AI with blockchain.",
+      "type": "AI",
+      "fullSummary": "Reiki by Web3Go provides a comprehensive toolkit for AI creation, enabling proof of on-chain ownership, an AI agents marketplace, and a vibrant community to engage. This platform empowers users to turn their creative ideas into profits, supported by a community of over 88,000 members.",
+      "publishedDate": "2024",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBbXQpzu2NacKRyV7KBLlGFsWMyl9OT97LhqDBC87K1g&s",
+      "articleUrl": "https://reiki.web3go.xyz/aiweb/home"
+    },
+    {
+      "id": "tech002",
+      "title": "D-ID",
+      "summary": "A platform that transforms multimedia into interactive digital humans to enhance customer interactions across industries.",
+      "type": "AI",
+      "fullSummary": "D-ID offers a solution that creates digital humans by transforming images, text, videos, audio, and voice. It enhances customer experiences, marketing, and content creation with a self-service studio, API, and fast, streaming-ready rendering at 100FPS.",
+      "publishedDate": "2024",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYV9VPYNIu4eJiwBPynTiyb9ev5dZfahm6P_RtxLFG7A&s",
+      "articleUrl": "https://www.producthunt.com/products/d-id"
+    },
+    {
+      "id": "tech003",
+      "title": "HeyGen",
+      "summary": "An AI video production platform that uses customizable avatars for creating scalable video content.",
+      "type": "AI",
+      "fullSummary": "HeyGen allows users to scale video production with digital avatars, text-to-speech, and video translation technologies, making it easy to produce studio-quality videos quickly. Formerly known as Movio.la, it provides a personalized video generator for repeated use of recorded personalized videos.",
+      "publishedDate": "2024",
+      "imageUrl": "https://media.licdn.com/dms/image/D4E12AQGoEOOuhKXyCw/article-cover_image-shrink_720_1280/0/1704926608872?e=2147483647&v=beta&t=0KV90f6pIxueU-yzeTWqA1M3FTbvFeVZj2t7r29yR9Q",
+      "articleUrl": "https://www.producthunt.com/products/heygen"
+    },
+    {
+      "id": "tech004",
+      "title": "Sprig",
+      "summary": "A user insights platform that helps teams build better products with surveys, replays, and GPT-powered AI analysis.",
+      "type": "AI",
+      "fullSummary": "Sprig empowers product teams by providing tools like Surveys, Replays, and AI-Powered Analysis to capture and analyze user insights efficiently. Trusted by leading tech companies, it helps improve the product experience by delivering quick, actionable insights.",
+      "publishedDate": "2024",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1544332673769947138/lVflvLQl_400x400.jpg",
+      "articleUrl": "https://www.producthunt.com/products/sprig"
+    },
+
+    {
+      "id": "tech005",
+      "title": "eesee",
+      "summary": "A gamified marketplace and liquidity solution for digital assets, tokens, and RWAs.",
+      "type": "Crypto",
+      "fullSummary": "eesee is a gamified marketplace and liquidity solution designed to boost sales, increase trading volume, and reduce the cost barriers of market entry. The platform hosts token, NFT, and RWA raffles, offering participants a low-risk opportunity to win high-value assets.",
+      "publishedDate": "2024",
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:500/1*zRhQ-2grq-OquCo_B_L1rQ.png",
+      "articleUrl": "https://miro.medium.com/v2/resize:fit:1200/1*G4YHs26HSTFPqOLX9U_SDQ.png"
+    },
+    {
+      "id": "tech006",
+      "title": "Swapped Finance",
+      "summary": "A leading decentralized exchange on the Shardeum blockchain offering secure, scalable trading with protection against front-running.",
+      "type": "Crypto",
+      "fullSummary": "Swapped Finance is a prominent decentralized exchange on the Shardeum Blockchain that provides a secure and fair platform for auto-scalable trading of digital assets. It ensures a level playing field for all users and includes measures to prevent front-running.",
+      "publishedDate": "2024",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1534317350010470401/P6Q8YW3O_400x400.jpg",
+      "articleUrl": "https://www.producthunt.com/products/swapped-finance"
+    },
+    {
+      "id": "tech007",
+      "title": "GT Protocol Trading",
+      "summary": "A Web3 AI tech for comprehensive trading across CeFi, DeFi, and NFT markets, enhancing trading strategies with AI.",
+      "type": "Crypto",
+      "fullSummary": "GT Protocol Trading offers a Web3 AI technology tailored for CeFi, DeFi, and NFT markets, providing automated AI trading, in-depth market analysis, and portfolio management. This platform focuses on leveraging conversational AI to facilitate efficient trading operations and market analysis.",
+      "publishedDate": "2024",
+      "imageUrl": "https://api.blockchainwire.io/uploads/Proleoio/editor_image/4ae6ccd5-d0af-4c9e-96da-4694b0138659.png",
+      "articleUrl": "https://www.producthunt.com/products/gt-protocol-trading"
+    },
+    {
+      "id": "tech008",
+      "title": "Anytype",
+      "summary": "A comprehensive knowledge management tool designed for data privacy and decentralized collaboration.",
+      "type": "Crypto",
+      "fullSummary": "Anytype offers a private hub for all your data including docs, tasks, files, bookmarks, and contacts. It is built on a new architecture that ensures privacy and data sovereignty, enabling offline, local-first, and peer-to-peer synced functionalities. It supports a no-code approach to creating dashboards, documents, and knowledge graphs.",
+      "publishedDate": "2024",
+      "imageUrl": "https://anytype.io/assets/svg/Main.svg",
+      "articleUrl": "https://www.producthunt.com/products/anytype"
+    },
+    {
+      "id": "tech009",
+      "title": "Clustr",
+      "summary": "A crypto portfolio management tool that enhances investment strategies and mitigates risks.",
+      "type": "Crypto",
+      "fullSummary": "Clustr is designed to improve crypto investment strategies by offering analytics on Web3 projects, managing risks, and building balanced portfolios. It aims to educate users on avoiding common investment mistakes and discovering new coins efficiently.",
+      "publishedDate": "2024",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8J_2oDW6zyH1ktrYUJhGZ_1srA333PR8t8xs_qNIUoQ&s",
+      "articleUrl": "https://www.producthunt.com/products/clustr"
+    }
+  ]
+}

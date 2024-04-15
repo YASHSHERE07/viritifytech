@@ -1,0 +1,55 @@
+{
+  "crypto": [
+    {
+      "id": "crypto-001",
+      "title": "Pepe Coin Spikes on Coinbase International Plan to List Perpetual Futures",
+      "summary": "The crypto exchange's off-shore arm will open perpetuals market for the popular meme coin on April 18.",
+      "type": "crypto",
+      "fullSummary": "Popular meme coin PEPE jumped on the news that Coinbase International Exchange, the U.S.-based crypto exchange's off-shore arm for institutions, will open a perpetual futures market for the token next week. The exchange said in an X post that it will list PEPE perps on Coinbase International Exchange and Coinbase Advanced and commence trading on or after 9:30 a.m. UTC on April 18. The news sparked hopes among traders that it could foreshadow a potential spot listing for the fourth largest memecoin, boasting a $3 billion market capitalization. PEPE gained as much as nearly 10% immediately after the announcement before paring most of the gains. At press time, the token had pulled back to about a 3% advance over the past 24 hours.",
+      "publishedDate": "11/04/2024",
+      "imageUrl": "https://www.coindesk.com/resizer/5R7_zwlkIKbQzXDoMA44Ptag0F0=/1056x594/filters:quality(80):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/D3FO4GE4UVD2NF4IYQEVFMADQA.jpg",
+      "articleUrl": "https://www.coindesk.com/markets/2024/04/11/pepe-coin-spikes-on-coinbase-international-plan-to-list-perpetual-futures/"
+    },
+    {
+      "id": "crypto-002",
+      "type": "Crypto",
+      "title": "Bitcoin Halving Won't See 600% Return, Adjust Your Strategy",
+      "summary": "Experts predict the upcoming Bitcoin halving will not yield the high returns seen in past cycles, suggesting a more muted market response due to increased stability and institutional involvement.",
+      "fullSummary": "The Bitcoin halving event is anticipated to result in a more subdued price increase compared to previous cycles, as the cryptocurrency market matures and exhibits decreased volatility. This change is attributed to greater institutional investment and a higher percentage of Bitcoin being held in long-term storage, reducing market supply. Investors are advised to adjust their strategies, expecting steadier but less dramatic returns compared to the massive gains following the 2020 halving.",
+      "publishedDate": "2024-04-11",
+      "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=717/https://s3.cointelegraph.com/uploads/2024-04/08cd6f81-717b-4b44-9d7f-0cd5a062ae16.jpg",
+      "articleUrl": "https://cointelegraph.com/news/bitcoin-halving-wont-see-600-percent-return-adjust-your-strategy"
+    },
+
+    {
+      "id": "crypto-003",
+      "type": "Crypto",
+      "title": "Bitcoin is Suddenly Cool Again for VCs",
+      "summary": "Venture capital is increasingly funding early-stage Bitcoin projects, following the cryptocurrency's recent price surge and the approval of a spot Bitcoin ETF.",
+      "fullSummary": "Venture capital funds have renewed their interest in the Bitcoin ecosystem, with significant increases in early-stage investments following Bitcoin's recent price surge and the approval of a spot Bitcoin ETF. A report from Trammel Venture Partners shows a 360% increase in pre-seed Bitcoin startup deals in 2023, with a total increase of 69.2% in deals and 56.9% in the number of funded startups compared to 2022. The focus has shifted towards innovative uses of Bitcoin beyond mere trading, despite a 12.5% drop in total capital raised by Bitcoin startups.",
+      "publishedDate": "2024-04-11",
+      "imageUrl": "https://blockworks.co/_next/image?url=https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2024%2F04%2Fbtc-screen.jpg&w=1920&q=75",
+      "articleUrl": "https://blockworks.co/news/vcs-funding-early-stage-bitcoin-projects"
+    },
+    {
+      "id": "crypto-004",
+      "type": "Crypto",
+      "title": "Empire Newsletter: Uniswap and DeFi in the SEC’s Sights",
+      "summary": "Uniswap has received a Wells notice from the SEC, signaling potential enforcement action over allegations of operating as an unregistered exchange. The decentralized finance (DeFi) sector faces increasing regulatory scrutiny.",
+      "fullSummary": "Uniswap's receipt of a Wells notice from the SEC reflects the regulator's intensified focus on the DeFi sector. Allegations suggest Uniswap may function as an unregistered exchange, similar to issues faced by other platforms like Coinbase and Binance. Uniswap's executives, confident in their legal standing, prepare to contest any charges, potentially up to the Supreme Court. This situation underscores the broader regulatory challenges facing the DeFi industry, with implications for decentralized exchanges and token classifications.",
+      "publishedDate": "2024-04-11",
+      "imageUrl": "https://blockworks.co/_next/image?url=https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2024%2F04%2FED_garyGensle_bitcoin_20231229b.jpg&w=1920&q=75",
+      "articleUrl": "https://blockworks.co/news/empire-newsletter-sec-goes-after-uniswap-defi"
+    },
+    {
+      "id": "crypto-005",
+      "title": "El Salvador’s newest Hilton hotel to tap into tokenized debt on Bitcoin",
+      "summary": "Investors will soon be able to own a slice of a new, 4,500 square-foot Hampton by Hilton hotel in El Salvador by buying tokenized shares issued on the Bitcoin layer 2 Liquid Network.",
+      "type": "news",
+      "fullSummary": "Investors will soon be able to own a slice of a new, 4,500 square-foot Hampton by Hilton hotel in El Salvador by buying tokenized shares issued on the Bitcoin layer 2 Liquid Network. The country’s first ever tokenized asset raise will be facilitated by Bitfinex Securities — the first licensed and registered digital asset provider in El Salvador — while the debt issued from Inversiones Laguardia S.A. de C.V. The hotel will be constructed at El Salvador’s international airport, with Inversiones Laguardia looking to raise $6.25 million from crowdfunders in exchange for a 10% coupon over a 5 year term. Paolo Ardoino, chief technology officer of Bitfinex Securities, stated that this represents an important step forward in developing El Salvador's nascent capital market and introducing a major new asset class into the market. Investors will need to make a minimum $1,000 investment to purchase the token under the ticker HILSV on the Liquid Network. HILSV token holders will also be offered some free nights accommodation at the hotel based on the size of their investment. El Salvador decided to expand into the real-world asset tokenization space in April 2023 when it granted Bitfinex a digital asset service provider license. Bitfinex’s expansion marks a “new era of capital markets” on Bitcoin in El Salvador, offering the local population a new way to access financial markets.",
+      "publishedDate": "Apr 11, 2024",
+      "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=717/https://s3.cointelegraph.com/uploads/2024-04/d0fa7e60-04f3-423e-9426-d6589fbb70b2.jpg",
+      "articleUrl": "https://cointelegraph.com/news/el-salvador-new-hilton-hotel-tap-into-tokenized-debt-bitcoin"
+    }
+  ]
+}

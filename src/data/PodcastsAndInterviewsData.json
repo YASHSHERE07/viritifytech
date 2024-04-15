@@ -1,0 +1,34 @@
+{
+  "podcastsandinterviews": [
+    {
+      "id": "podcast-001",
+      "type": "Startup",
+      "title": "a16z Podcast",
+      "summary": "The a16z Podcast by Andreessen Horowitz covers the intersection of technology and culture, featuring discussions with influencers in tech, business, and academia.",
+      "fullSummary": "The a16z Podcast by Andreessen Horowitz explores how technology is changing everything—from Silicon Valley to traditional industries. It provides insights for builders, the tech curious, and anyone seeking to understand the future. The podcast features a diverse range of guests and covers topics like AI, biotechnology, and global market trends, aiming to educate and inspire its audience with the latest developments and challenges in technology.",
+      "publishedDate": "2024-04-11",
+      "imageUrl": "https://a16z.com/wp-content/uploads/2023/12/Big-Ideas-PT-1-1280x720-1-1024x576.png",
+      "articleUrl": "https://a16z.com/podcasts/a16z-podcast/"
+    },
+    {
+      "id": "podcast-002",
+      "type": "Podcast",
+      "title": "Back to Work",
+      "summary": "Hosted by Merlin Mann and Dan Benjamin, 'Back to Work' is an award-winning talk show that discusses productivity, communication, barriers, and tools, aiming to provide insights into various work-related challenges.",
+      "fullSummary": "'Back to Work' features hosts Merlin Mann and Dan Benjamin engaging in deep conversations about the complexities of work life, including productivity, overcoming barriers, and the tools that can help. The show addresses both philosophical and practical aspects of modern work life, making it a resource for anyone looking to enhance their workday and manage their professional responsibilities more effectively.",
+      "publishedDate": "2024",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGl4GJz4txEA8OVE1E2mdjqw0yy3HY-4zG0KMmwBruDA&s",
+      "articleUrl": "https://www.backtowork.limo/"
+    },
+    {
+      "id": "podcast-003",
+      "type": "Podcast",
+      "title": "Pivot",
+      "summary": "Pivot, hosted by Kara Swisher and Scott Galloway, offers unfiltered insights into tech, business, and politics. The hosts share bold predictions and dissect major stories, combining expert analysis with lively banter.",
+      "fullSummary": "The Pivot podcast, featuring tech journalist Kara Swisher and NYU Professor Scott Galloway, provides sharp commentary on the biggest stories in tech, business, and politics. Their discussions include predictions, winner and loser picks, and robust debates. The podcast is part of the New York Magazine and the Vox Media Podcast Network, aiming to scrutinize powerful figures and phenomena with great depth.",
+      "publishedDate": "2024-04-11",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/54/3c/8d/543c8dab-2a14-54dc-e899-014727a14ed5/mza_6721855998870076427.jpeg/313x0w.webp",
+      "articleUrl": "https://podcasts.apple.com/us/podcast/pivot/id1073226719"
+    }
+  ]
+}

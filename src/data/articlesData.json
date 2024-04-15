@@ -1,0 +1,124 @@
+{
+  "articles": [
+    {
+      "id": "tech-001",
+      "title": "The Dawn of Cyber-Physical Systems",
+      "summary": "Exploring the integration of physical processes with cyber technology.",
+      "type": "Analysis",
+
+      "fullSummary": "This article delves into cyber-physical systems, highlighting how the integration of physical processes with cybernetic technology is creating smarter, more efficient systems across various industries.",
+      "publishedDate": "2024-04-07",
+      "imageUrl": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "contentUrl": "path/to/summary/cyber_physical",
+      "articleUrl": "https://example.com/full_article/cyber_physical"
+    },
+    {
+      "id": "tech-002",
+      "title": "Blockchain Revolution: More Than Just Crypto",
+      "summary": "Unveiling the vast potential of blockchain beyond cryptocurrencies.",
+      "type": "Analysis",
+
+      "fullSummary": "This piece explores the transformative potential of blockchain technology well beyond its initial application in cryptocurrencies, touching on sectors such as supply chain, healthcare, and digital identity verification.",
+      "publishedDate": "2024-04-06",
+      "imageUrl": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "contentUrl": "path/to/summary/blockchain_revolution",
+      "articleUrl": "https://example.com/full_article/blockchain_revolution"
+    },
+    {
+      "id": "tech-003",
+      "title": "Artificial Intelligence: Transforming the Future",
+      "summary": "A look into how AI is shaping the future of humanity.",
+      "type": "Analysis",
+
+      "fullSummary": "From healthcare to automotive industries, this article examines the pervasive impact of artificial intelligence, showcasing groundbreaking innovations and pondering the ethical implications of AI development.",
+      "publishedDate": "2024-04-05",
+      "imageUrl": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "contentUrl": "path/to/summary/ai_future",
+      "articleUrl": "https://example.com/full_article/ai_future"
+    },
+    {
+      "id": "tech-004",
+      "title": "The Rise of Smart Cities",
+      "summary": "Smart cities are no longer a futuristic concept.",
+      "type": "Analysis",
+
+      "fullSummary": "This article investigates the rise of smart cities, focusing on how urban areas around the globe are utilizing IoT, AI, and other technologies to enhance the quality of life, streamline city services, and reduce environmental footprints.",
+      "publishedDate": "2024-04-04",
+      "imageUrl": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "contentUrl": "path/to/summary/smart_cities",
+      "articleUrl": "https://example.com/full_article/smart_cities"
+    },
+    {
+      "id": "tech-005",
+      "title": "Virtual Reality: Immersive Experiences Redefined",
+      "summary": "VR is changing how we experience digital content.",
+      "type": "Analysis",
+
+      "fullSummary": "Delving into the world of virtual reality, this article outlines how VR technology is redefining immersive experiences in gaming, education, and professional training, offering a glimpse into the future of digital interaction.",
+      "publishedDate": "2024-04-03",
+      "imageUrl": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "contentUrl": "path/to/summary/virtual_reality",
+      "articleUrl": "https://example.com/full_article/virtual_reality"
+    },
+    {
+      "id": "tech-006",
+      "title": "5G Technology: The Backbone of Modern Connectivity",
+      "summary": "5G technology is setting new benchmarks in connectivity.",
+      "type": "Analysis",
+
+      "fullSummary": "Exploring the role of 5G in modern connectivity, this article highlights the technology's impact on internet speeds, latency, and the facilitation of emerging technologies such as IoT, paving the way for a truly connected world.",
+      "publishedDate": "2024-04-02",
+      "imageUrl": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "contentUrl": "path/to/summary/5g_connectivity",
+      "articleUrl": "https://example.com/full_article/5g_connectivity"
+    },
+    {
+      "id": "tech-007",
+      "title": "The Internet of Things (IoT): Connecting the World Like Never Before",
+      "summary": "IoT is transforming everyday objects into a connected ecosystem.",
+      "type": "Analysis",
+
+      "fullSummary": "This article examines the Internet of Things (IoT), showcasing how the interconnectivity of everyday objects is enabling smarter homes, cities, and industries, and discussing the challenges and opportunities of a connected world.",
+      "publishedDate": "2024-04-01",
+      "imageUrl": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "contentUrl": "path/to/summary/iot_world",
+      "articleUrl": "https://example.com/full_article/iot_world"
+    },
+    {
+      "id": "tech-008",
+      "title": "Augmented Reality: Blurring the Lines Between Physical and Digital",
+      "summary": "AR is creating new ways to interact with the world.",
+      "type": "Analysis",
+
+      "fullSummary": "Focusing on augmented reality (AR), this article explores how AR technology is blurring the lines between the physical and digital worlds, enhancing everything from retail shopping experiences to field service operations and education.",
+      "publishedDate": "2024-03-31",
+      "imageUrl": "path/to/image/augmented_reality.jpg",
+      "contentUrl": "path/to/summary/augmented_reality",
+      "articleUrl": "https://example.com/full_article/augmented_reality"
+    },
+    {
+      "id": "tech-009",
+      "title": "The Evolution of Cloud Computing",
+      "summary": "Cloud computing is revolutionizing how data is stored and accessed.",
+      "type": "Analysis",
+
+      "fullSummary": "This article details the evolution of cloud computing, illustrating how it has become a cornerstone for storing and accessing data remotely, supporting the scalability of services, and driving innovation in businesses and technologies worldwide.",
+      "publishedDate": "2024-03-30",
+      "imageUrl": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "contentUrl": "path/to/summary/cloud_computing",
+      "articleUrl": "https://example.com/full_article/cloud_computing"
+    },
+    {
+      "id": "tech-010",
+      "title": "Cybersecurity in the Age of Internet",
+      "summary": "Protecting digital assets has never been more crucial.",
+      "type": "Analysis",
+
+      "fullSummary": "With the increasing prevalence of digital transactions and data storage, this article addresses the critical importance of cybersecurity, offering insights into the latest threats and advancements in protecting digital assets against cyberattacks.",
+      "publishedDate": "2024-03-29",
+      "imageUrl": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "contentUrl": "path/to/summary/cybersecurity",
+      "articleUrl": "https://example.com/full_article/cybersecurity"
+    }
+  ]
+}

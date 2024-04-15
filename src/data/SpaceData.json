@@ -1,0 +1,65 @@
+{
+  "space": [
+    {
+      "id": "space-001",
+      "title": "Chandrayaan-3 Mission Receives Prestigious US Space Exploration Award",
+      "summary": "India's Chandrayaan-3 mission has been honored with the 2024 John L. 'Jack' Swigert Jr. Award for Space Exploration.",
+      "type": "Space",
+      "fullSummary": "India's Chandrayaan-3 mission team was recently awarded the prestigious 2024 John L. 'Jack' Swigert Jr. Award for Space Exploration for its significant contributions to space exploration. The award, bestowed by NASA, recognizes the successful soft landing of the Chandrayaan-3 mission's lander, Vikram, and rover, Pragyan, on the Moon's south pole in August last year. This achievement made India the first country to land at that lunar location and the fourth nation to demonstrate the capability of soft landing on the lunar surface. The award was accepted on behalf of the Indian Space Research Organisation (ISRO) by India's Consul General in Houston, D C Manjunath, at the annual Space Symposium in Colorado.",
+      "publishedDate": "2024-04-10",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-08/23/full/1692788477-0959.jpg?im=FitAndFill=(826,465)",
+      "articleUrl": "https://www.business-standard.com/india-news/chandrayaan-3-mission-receives-prestigious-us-space-exploration-award-124041000464_1.html"
+    },
+    {
+      "id": "space-002",
+      "title": "NASA, Japan Advance Space Cooperation, Sign Agreement for Lunar Rover",
+      "summary": "NASA and Japan’s MEXT have signed an agreement to jointly develop a pressurized lunar rover for sustainable exploration of the Moon.",
+      "type": "Space",
+      "fullSummary": "NASA Administrator Bill Nelson and Japan’s Minister of Education, Culture, Sports, Science and Technology, Masahito Moriyama, have signed a historic agreement to advance sustainable human exploration of the Moon. Under this agreement, Japan will design, develop, and operate a pressurized rover for both crewed and uncrewed lunar missions, while NASA will handle the launch and delivery of the rover, and provide two opportunities for Japanese astronauts to travel to the lunar surface. The agreement was part of a larger announcement made by President Biden and Prime Minister Kishida, who expressed a shared goal for a Japanese national to be the first non-American astronaut to land on the Moon under a future Artemis mission. This rover is expected to enhance the mobility and operational capabilities of astronauts on the Moon, allowing them to travel farther and conduct extended scientific research in diverse geographical areas. This collaborative effort underlines the strong partnership between the U.S. and Japan in space exploration and is part of a broader Framework Agreement signed in January 2023 for peaceful space cooperation.",
+      "publishedDate": "2024-04-10",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/04/nhq202404090009-4k.jpg?resize=2000,1604",
+      "articleUrl": "https://www.nasa.gov/news-release/nasa-japan-advance-space-cooperation-sign-agreement-for-lunar-rover/"
+    },
+    {
+      "id": "space-003",
+      "title": "ISS Launch: New US-Russian Crew Heads to Space Station",
+      "summary": "A US-Russian crew aboard a SpaceX Falcon 9 rocket has launched towards the ISS, marking continued cooperation in space despite geopolitical tensions.",
+      "type": "News",
+      "fullSummary": "On March 4, 2024, a SpaceX Falcon 9 rocket launched from Florida carrying three US astronauts and one Russian cosmonaut to the International Space Station (ISS) for a six-month mission. This mission, Crew-8, highlights ongoing US-Russian cooperation in space amid the war in Ukraine. The crew will conduct over 200 scientific experiments, including one focused on growing artificial human organs in low gravity, a task impossible on Earth. The launch, initially delayed by strong winds, successfully occurred on the second attempt, with the crew set to dock at the ISS on Tuesday. This mission also includes the return of astronaut Jeanette Epps and physician Michael Barratt, with Barratt making his third visit to the ISS. The crew's spacecraft, the Dragon Endeavour capsule, reached orbit nine minutes after liftoff, demonstrating the continued importance of international collaboration in space exploration.",
+      "publishedDate": "2024-03-04",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11FB/production/_132830640_crew-8-ingress-3-1024x576.jpg.webp",
+      "articleUrl": "https://www.bbc.com/news/science-environment-68465056"
+    },
+    {
+      "id": "space-004",
+      "title": "Gaganyaan: India Names Astronauts for Maiden Space Flight",
+      "summary": "India has announced the four Air Force pilots selected for the Gaganyaan mission, the country's first manned space flight scheduled for 2025.",
+      "type": "Space",
+      "fullSummary": "India's space ambitions took a significant step forward with the unveiling of four astronauts for the Gaganyaan mission, set to be the nation's first manned space flight. The astronauts, all Air Force pilots, include Group Captain Prashanth Balakrishnan Nair, Group Captain Ajit Krishnan, Group Captain Angad Pratap, and Wing Commander Shubhanshu Shukla. These individuals were awarded their 'wings' by Prime Minister Narendra Modi and Isro chief S Somanath during a ceremony at the Isro centre in Thiruvananthapuram. The mission, scheduled for 2025, aims to send these astronauts 400km above Earth for a three-day orbital mission. Prior to this, in 2024, Isro plans to send a humanoid robot, Vyommitra, to space as a precursor to the human mission. This initiative represents a critical milestone for India, following extensive preparations including rigorous physical and psychological assessments and training in Russia. If successful, India will join the ranks of the Soviet Union, the US, and China as one of the few nations capable of human spaceflight.",
+      "publishedDate": "2024-02-27",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/348E/production/_132745431_wingsstill.jpg.webp",
+      "articleUrl": "https://www.bbc.com/news/world-asia-india-68411095"
+    },
+    {
+      "id": "space-005",
+      "title": "SpaceX Launches Powerful Starship for Third Time into Space: Key Takeaways",
+      "summary": "SpaceX's Starship completed its longest test flight but disintegrated upon re-entry, marking both progress and setbacks in the spacecraft's development.",
+      "type": "Space",
+      "fullSummary": "SpaceX has conducted the third test flight of its Starship rocket, which traveled halfway around the world and demonstrated new maneuvers but ultimately broke apart during re-entry. Launched from Boca Chica, Texas, the rocket successfully executed several technical feats, including opening and closing its payload doors, transferring super-cooled propellant, and performing a flip maneuver with its Super Heavy booster. Despite achieving an orbital speed of 28,000 km/h, the Starship did not survive re-entry, disintegrating before splashdown in the Indian Ocean. The mission tested critical functions that could revolutionize space transport and support NASA’s lunar ambitions under the Artemis program. The Super Heavy booster, which lifted the Starship, also failed to perform as expected, losing some engines and failing to make a controlled landing. This test continues to provide valuable data for SpaceX’s goal of multiplanetary human presence and reducing space travel costs through reusable spacecraft.",
+      "publishedDate": "2024-03-15",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2024/03/INTERACTIVE_SPACE_X_MAR14_2024-1710420516.png?w=770&resize=770%2C769&quality=80",
+      "articleUrl": "https://www.aljazeera.com/news/2024/3/15/is-spacexs-latest-starship-launch-a-great-stride-in-space-key-takeaways"
+    },
+    {
+      "id": "space-006",
+      "tag": "Space",
+      "title": "SpaceX Launches 23 Starlink Satellites in Nighttime Liftoff",
+      "summary": "SpaceX has successfully launched 23 Starlink satellites from Florida, marking another step in expanding its broadband internet megaconstellation.",
+      "type": "News",
+      "fullSummary": "In the early hours of April 10, 2024, SpaceX's Falcon 9 rocket launched 23 Starlink satellites from Cape Canaveral Space Force Station in Florida. The launch, which occurred at 1:40 a.m. EDT, was part of SpaceX's ongoing efforts to expand its Starlink satellite internet service. This particular Falcon 9 booster successfully returned to Earth, landing on the droneship 'Just Read the Instructions' approximately 8.5 minutes after liftoff. This was the second flight for the booster, its first being the Crew-8 mission to the International Space Station in March. The upper stage of the Falcon 9 continued to low Earth orbit, where it deployed the satellites about 65.5 minutes post-launch. This launch contributes to the nearly 5,700 operational satellites in the Starlink network, aimed at providing global broadband coverage. With 36 orbital missions already conducted in 2024, two-thirds of these have focused on expanding the Starlink megaconstellation, highlighting SpaceX's commitment to enhancing global internet connectivity.",
+      "publishedDate": "2024-04-12",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/dKfoUv47yVnzJEZb8cRwiC-970-80.jpg.webp",
+      "articleUrl": "https://www.space.com/spacex-starlink-launch-group-6-48"
+    }
+  ]
+}

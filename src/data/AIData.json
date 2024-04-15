@@ -1,0 +1,54 @@
+{
+  "ai": [
+    {
+      "id": "ai-001",
+      "type": "AI",
+      "title": "US and Japan Announce Sweeping AI and Tech Collaboration",
+      "summary": "The US and Japan have unveiled extensive AI, quantum computing, and tech collaborations aimed at enhancing national and global tech leadership and addressing interoperable AI safety standards.",
+      "fullSummary": "The collaboration includes a $110 million partnership involving the University of Washington, University of Tsukuba, Carnegie Mellon University, and Keio University, supported by major tech firms. It focuses on developing cutting-edge AI, establishing AI Safety Institutes, and creating a robust quantum supply chain. The initiatives also cover semiconductors and aim to train a skilled tech workforce, strengthening the strategic tech partnership between the two nations.",
+      "publishedDate": "2024-04-11",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2024/04/usa-japan-ai-collaboration-artificial-intelligence-politics-government-quantum-computing-research-2048x1465.jpg",
+      "articleUrl": "https://www.artificialintelligence-news.com/2024/04/11/us-and-japan-sweeping-ai-tech-collaboration/"
+    },
+    {
+      "id": "ai-002",
+      "type": "AI",
+      "title": "OpenAI Makes GPT-4 Turbo with Vision API Generally Available",
+      "summary": "OpenAI has launched GPT-4 Turbo with Vision API, enhancing the capabilities of the GPT-4 model with advanced vision and language processing for developers and enterprises.",
+      "fullSummary": "OpenAI's GPT-4 Turbo with Vision API is now generally available, integrating language and vision capabilities that allow developers to perform complex tasks like generating actionable JSON from images and text. This release follows the initial GPT-4 capabilities and focuses on significant speed improvements and extended input contexts. The model is aimed at boosting enterprise and developer tools with efficient, cost-effective solutions for real-world applications.",
+      "publishedDate": "2024-04-10",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2024/04/openai-gpt-4-turbo-with-vision-api-developers-coding-programming-ai-artificial-intelligence-model-2048x1459.jpg",
+      "articleUrl": "https://www.artificialintelligence-news.com/2024/04/10/openai-gpt-4-turbo-with-vision-api-generally-available/"
+    },
+    {
+      "id": "ai-003",
+      "type": "AI",
+      "title": "The Humane AI Pin, the First Wearable AI Device, is Blasted by Reviewers",
+      "summary": "The Humane AI Pin, a $699 AI-powered wearable device, has received largely negative reviews for its performance issues including slow response times, overheating, and poor battery life.",
+      "fullSummary": "The Humane AI Pin, marketed as the first AI-integrated wearable, has faced critical reviews from major tech outlets. Reviewers noted multiple issues such as slow performance, overheating, and inadequate battery life, leading to a negative reception. Despite its innovative approach to integrating AI like OpenAI's ChatGPT and Google's Gemini into a wearable device, it struggled with basic functionality and user experience. Critics compared its market reception unfavorably to Google Glass, citing it as overtly ambitious but underdelivering.",
+      "publishedDate": "2024-04-11",
+      "imageUrl": "https://dailyai.com/wp-content/uploads/2024/04/DALL%C2%B7E-2024-04-11-17.09.21-Envision-a-sophisticated-wearable-device-compact-and-elegant-attached-securely-to-the-lapel-of-a-shirt.-This-device-gleams-with-a-high-tech-sheen-i.webp",
+      "articleUrl": "https://dailyai.com/2024/04/the-humane-ai-pin-the-first-wearable-ai-device-is-blasted-by-reviewers/"
+    },
+    {
+      "id": "ai-004",
+      "type": "AI",
+      "title": "NVIDIA's AI Odyssey: From Humble Origins to a $2 Trillion Company",
+      "summary": "NVIDIA has evolved from a small graphics chip designer to a global leader in AI and high-performance computing, now valued at $2 trillion.",
+      "fullSummary": "Starting as a gaming GPU manufacturer, NVIDIA has grown into a critical player in the tech industry, especially in AI and high-performance computing. The company's innovative use of GPUs for deep learning and AI, along with strategic investments and partnerships, has propelled its market cap to $2 trillion, making it one of the top companies globally.",
+      "publishedDate": "2024-04-06",
+      "imageUrl": "https://dailyai.com/wp-content/uploads/2024/04/DALL%C2%B7E-2024-04-06-14.26.06-Create-a-high-quality-landscape-image-that-visualizes-NVIDIAs-journey-in-the-AI-industry-from-its-early-origins-to-becoming-a-central-hub-of-innova.webp",
+      "articleUrl": "https://dailyai.com/2024/04/nvidias-ai-odyssey-from-humble-origins-to-a-2-trillion-company/"
+    },
+    {
+      "id": "ai-005",
+      "type": "AI",
+      "title": "Claude 3 Opus Blows All LLMs Away in Book-Length Summarization",
+      "summary": "Claude 3 Opus outperforms other LLMs in book-length summarization, achieving over 90% accuracy in claim faithfulness, significantly higher than competitors like GPT-4.",
+      "fullSummary": "Researchers from University of Massachusetts Amherst and other institutions found that Claude 3 Opus excelled in summarizing extensive texts, significantly surpassing other large language models (LLMs) like GPT-4 in accuracy and faithfulness. This model's superior performance is demonstrated through its ability to maintain high levels of claim verification, with over 90% of its summaries' claims being verified as accurate, highlighting its potential in applications requiring deep comprehension of long documents.",
+      "publishedDate": "2024-04-08",
+      "imageUrl": "https://dailyai.com/wp-content/uploads/2024/04/AI-sumarizer.webp",
+      "articleUrl": "https://dailyai.com/2024/04/claude-3-opus-blows-all-llms-away-in-book-length-summarization/"
+    }
+  ]
+}

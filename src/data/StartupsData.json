@@ -1,0 +1,74 @@
+{
+  "startups": [
+    {
+      "id": "startup-001",
+      "title": "Google Announced an Open-Source, Lightweight Version of Its Flagship AI",
+      "summary": "Google introduces Gemma, an open-source, lightweight alternative to its Gemini AI, designed for simpler tasks like chatbots and text summaries. Available in 2B and 7B parameter versions, Gemma offers enhanced speed and accessibility, allowing developers to run models directly on laptops using platforms like Hugging Face.",
+      "type": "Startup",
+      "fullSummary": "Google has launched Gemma, a lightweight, open-source version of its AI, with models Gemma 2B and 7B, designed for tasks such as chatbots and text summarization. Unlike its flagship AI Gemini, Gemma is intended for more basic applications but provides best-in-class performance for its size. Developers can utilize Gemma through Hugging Face, Kaggle, and Google's Vertex AI. It also includes responsible AI toolkits to address potential issues like misinformation and bias.",
+      "publishedDate": "2024-02-26",
+      "imageUrl": "https://ph-files.imgix.net/73e428c8-6e05-434f-8ef3-8758b909e64f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1",
+      "articleUrl": "https://www.producthunt.com/stories/google-announced-an-open-source-lightweight-version-of-its-flagship-ai"
+    },
+    {
+      "id": "startup-002",
+      "title": "OpenAI's Latest Model Takes Video Generation to the Next Level",
+      "summary": "OpenAI introduces Sora, a new text-to-video AI model capable of generating detailed 1080p videos from text prompts, showcasing significant advancements in video generation technology.",
+      "type": "Startup",
+      "fullSummary": "OpenAI has released Sora, a text-to-video model that transforms detailed prompts into 1080p videos, aiming to revolutionize video creation. Trained on 10,000 hours of high-quality video and built on a transformer architecture, Sora excels in generating dynamic content but struggles with complex physical simulations. It remains in closed testing to address potential issues like misinformation and bias, with no public release date yet.",
+      "publishedDate": "2024-02-16",
+      "imageUrl": "https://sagartech.co.in/blogs/wp-content/uploads/2024/03/maxresdefault.jpg",
+      "articleUrl": "https://www.producthunt.com/stories/openai-s-latest-model-takes-video-generation-to-the-next-level"
+    },
+    {
+      "id": "startup-003",
+      "type": "Startup",
+      "title": "Meet Nvidia's New Localized AI Chatbot",
+      "summary": "Nvidia introduces Nvidia Chat with RTX, a demo app allowing users to create a custom GPT large language model tailored to personal data like documents and videos, enhancing local processing without cloud dependency.",
+      "fullSummary": "Nvidia's latest foray into consumer AI involves 'Nvidia Chat with RTX,' a demo application designed for Windows machines that enables users to develop a custom GPT model. This model leverages local data sources such as documents, notes, and videos, differing from cloud-based models by focusing on privacy and data locality. The chatbot excels in tasks like summarizing documents and extracting information from multimedia content, illustrating Nvidia's innovative approach to integrating AI more deeply into personal computing.",
+      "publishedDate": "2024-02-15",
+      "imageUrl": "https://ph-files.imgix.net/6fd15c30-d966-49de-ad62-7f24ced1a239.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1",
+      "articleUrl": "https://www.producthunt.com/stories/meet-nvidia-s-new-localized-ai-chatbot"
+    },
+    {
+      "id": "startup-004",
+      "type": "Startup",
+      "title": "The Top 15 AI Products from 2023",
+      "summary": "The article highlights the top 15 AI products of 2023, showcasing innovative solutions in design, content generation, CRM, and conversational AI among others, reflecting significant advancements in the field.",
+      "fullSummary": "The list of top 15 AI products of 2023 includes innovative tools like STUDIO AI for design, AudioPen for converting thoughts into text, AI Content Genie for marketing, and DALL-E 3 for image creation. It also features products like Folk 2.0, a smart CRM, and GPT-4, which demonstrates human-level performance. The list underscores the rapid development and diverse applications of AI technology across various industries, highlighting how these tools are shaping the future of work and creativity.",
+      "publishedDate": "2024-01-02",
+      "imageUrl": "https://ph-files.imgix.net/2cb83d74-fe80-4b54-890a-a8697a30d780.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1",
+      "articleUrl": "https://www.producthunt.com/stories/the-top-15-ai-product-launches-from-2023"
+    },
+    {
+      "id": "startup-005",
+      "type": "Startup",
+      "title": "An Interview with Lempire Founder, Guillaume Moubeche",
+      "summary": "Guillaume Moubeche, founder of Lempire, shares insights into bootstrapping his company to success, the evolution of his SaaS product, lemlist, and the significance of building in public.",
+      "fullSummary": "In an interview, Guillaume Moubeche, CEO of Lempire, discusses his journey from starting with $1,000 to reaching a $150M valuation. He explains the challenges and strategies of bootstrapping, the development of lemlist, and the impact of customer-oriented product evolution. Moubeche emphasizes the benefits of building in public, engaging directly with the community, and maintaining control over business direction without external funding pressures.",
+      "publishedDate": "2023-12-04",
+      "imageUrl": "https://ph-files.imgix.net/7bb2348c-5fe2-443b-a226-7ecee43d74c1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1",
+      "articleUrl": "https://www.producthunt.com/stories/an-interview-with-lempire-founder"
+    },
+    {
+      "id": "startup-006",
+      "type": "Startup",
+      "title": "This ML Concept Will Bring Hyper-Personalization to Your Screen",
+      "summary": "The article introduces 'flowRL,' a product that employs Reinforcement Learning (RL) to deliver highly personalized user interfaces, enhancing interactions and effectiveness in applications.",
+      "fullSummary": "The product, flowRL, leverages Reinforcement Learning to allow app developers to create dynamically personalized user interfaces aimed at improving specific conversion metrics like sales. By using a combination of deep reinforcement learning and transformers, flowRL predicts the most effective UI variations for individual users based on their interactions within the app. This method surpasses traditional A/B testing by continuously adapting and optimizing UI elements in real time to maximize user engagement and achieve desired outcomes.",
+      "publishedDate": "2023-11-21",
+      "imageUrl": "https://ph-files.imgix.net/4472a230-87b9-4439-bf21-4d766aef99d4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1",
+      "articleUrl": "https://www.producthunt.com/stories/this-ml-concept-will-bring-hyper-personalization-to-your-screen"
+    },
+    {
+      "id": "startup-007",
+      "type": "Startup",
+      "title": "Web2 vs. Web3: Navigating the Future of the Internet",
+      "summary": "This article explores the evolution from Web2 to Web3, highlighting the shift from centralized to decentralized web architectures and the implications for data ownership, privacy, and internet interactions.",
+      "fullSummary": "The article discusses the progression of the internet from Web1.0 through Web2.0, and now into Web3. It details how Web3, utilizing blockchain technology, aims for a decentralized internet that empowers users with data ownership and privacy. The piece compares the centralized control of Web2 with the decentralized nature of Web3, exploring how this impacts data ownership, monetization models, and privacy. It also speculates on Web4, which might integrate AI and VR to enhance the web's interactivity and security.",
+      "publishedDate": "2023-09-15",
+      "imageUrl": "https://ph-files.imgix.net/8d21fd7f-97cf-4f7b-9950-35e01b6146af.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1",
+      "articleUrl": "https://www.producthunt.com/stories/web2-vs-web3-navigating-the-future-of-the-internet"
+    }
+  ]
+}

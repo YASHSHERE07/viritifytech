@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "tech-001",
+      "title": "Meta Confirms Its Llama 3 Open Source LLM is Coming in the Next Month",
+      "summary": "Meta announces the upcoming release of Llama 3, a new version of its large language model aimed to power AI assistants.",
+      "type": "News",
+      "fullSummary": "At an event in London, Meta confirmed the imminent release of Llama 3, the next generation of its large language model (LLM), with the aim to start rolling it out within a month. Nick Clegg, Meta’s president of global affairs, stated, \"Within the next month, actually less, hopefully in a very short period of time, we hope to start rolling out our new suite of next-generation foundation models, Llama 3,\" describing the release of several different iterations or versions of the product. \"There will be a number of different models with different capabilities, different versatilities [released] during the course of this year, starting really very soon.\" This model will have different iterations and is expected to enhance Meta's AI offerings, making it more competitive with similar products from companies like OpenAI. Meta is also considering the application of this technology beyond text generation, although some key projects like the image generation tool 'Emu' are not being released yet.",
+      "publishedDate": "2023-10-09",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/04/IMG_4295.jpg?w=533",
+      "articleUrl": "https://techcrunch.com/2024/04/09/meta-confirms-that-its-llama-3-open-source-llm-is-coming-in-the-next-month/"
+    },
+    {
+      "id": "tech-002",
+      "title": "Internal Pre-Starlink SpaceX Financials Show Big Spending on Moonshot Bets",
+      "summary": "Confidential financial documents from SpaceX for 2018 and 2019 reveal significant investment in its Starlink and Starship programs to achieve cash flow positivity.",
+      "type": "News",
+      "fullSummary": "Confidential financial statements from SpaceX for 2018 and 2019 highlight the company's reliance on its Starlink business and the development of the Starship rocket for financial stability. The balance sheets reveal a growth from $2 billion in revenue in 2018 to a projected $15 billion by 2024, despite initial losses. Key events in these years included the first Falcon Heavy launch and the deployment of the first 60 Starlink satellites, crucial for SpaceX's vision of Mars colonization. Revenue recognition changes led to a decline from $1.98 billion in 2018 to $1.45 billion in 2019, while losses increased from -$308 million to -$501 million due to higher costs in production and development, mainly driven by the Starlink and Starship projects. The company's reliance on NASA contracts grew significantly, accounting for 37% of the revenue in 2018 and 83% in 2019. The expansion of the Starlink satellite network, now over 5,500 active satellites with 2.5 million customers, reflects SpaceX's substantial progress. Looking ahead, the success of the Starship, necessary for launching the heavier second-generation Starlink satellites, remains critical for increasing SpaceX's launch capacity and extending its internet service globally. Elon Musk emphasized in 2022 that only Starship could handle the next-generation Starlink satellites, underscoring the importance of this development for the company's future.",
+      "publishedDate": "2023-10-11",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242720271.jpg?w=711",
+      "articleUrl": "https://techcrunch.com/2024/04/11/internal-pre-starlink-spacex-financials-show-big-spending-on-moonshot-bets/"
+    },
+    {
+      "id": "tech-003",
+      "title": "This Artificially Intelligent Pin Wants to Free You From Your Phone",
+      "summary": "The Ai Pin, a $700 device funded by Sam Altman and Microsoft, aims to reduce smartphone usage with its unique design and functionality, but faces issues with accuracy and overheating.",
+      "type": "Technology Review",
+      "fullSummary": "The Ai Pin, developed by Humane and funded by leaders including Sam Altman of OpenAI and Microsoft, is a lapel pin-shaped device that projects information via a green laser onto the user's hand. Designed to offload simple tasks typically done on a smartphone, such as taking notes and searching the web, it includes features like a camera, speaker, and cellular connection. Despite its innovative approach and $240 million in funding, the device displayed significant flaws during a two-week trial by NYT's Brian X. Chen. Problems included inaccurate responses and overheating, leading to an early end to a photo shoot. While the device’s design and concept received praise, its practical execution and reliability were lacking. Humane's founders have promised updates to resolve these issues.",
+      "publishedDate": "2024-04-11",
+      "imageUrl": "https://static01.nyt.com/images/2024/04/11/multimedia/11TECHFIX-1-03-gkjm/11TECHFIX-1-03-gkjm-superJumbo.jpg?quality=75&auto=webp",
+      "articleUrl": "https://www.nytimes.com/2024/04/11/technology/personaltech/ai-pin-humane-openai-microsoft.html"
+    }
+  ]
+}
